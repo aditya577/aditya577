@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aditya577
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Python and JavaScript.
-- 💞️ I’m looking to collaborate on open-surce project.
+- 💞️ I’m always looking to collaborate on open-surce projects.
 - 📫 Reach me at adihtc577@gmail.com .
 
 <!---
