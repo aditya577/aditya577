@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Python and JavaScript.
 - 💞️ I’m always looking to collaborate on open-surce projects.
-- 📫 Reach me at upsadi577@gmail.com.
 
 <!---
 aditya577/aditya577 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
