@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditya577
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Python and JavaScript.
+- 👀 I’m interested in data intensive applications.
+- 🌱 I’m currently learning Java, Python and JavaScript.
 - 💞️ I’m always looking to collaborate on open-surce projects.
 
 <!---
